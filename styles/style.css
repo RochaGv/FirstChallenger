@@ -5,4 +5,5 @@
 
 .caixa {
     display: flex;
+    flex-direction: row;
 }
